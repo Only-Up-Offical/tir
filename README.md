@@ -4,6 +4,8 @@
 
 `tir` is a simple command-line project manager designed to assist in creating and managing projects. It provides basic commands for managing projects.
 
+You can use it in any directory by adding the `tir` folder to your system variables. It's preferable to add the `tir` folder to 'C:\Program Files (x86)' and then include it in your system variables.
+
 ## Create a Project
 
 ```bash
