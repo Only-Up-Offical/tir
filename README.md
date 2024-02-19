@@ -15,3 +15,9 @@ tir new <project_name> # Creates main.py inside the project
 ```bash
 tir clear <project_name> # Clears the project
 ```
+
+## Run a Project
+
+```bash
+tir run # Runs the project
+```
