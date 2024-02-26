@@ -23,3 +23,9 @@ tir clear <project_name> # Clears the project
 ```bash
 tir run # Runs the project
 ```
+
+## Update the TIR
+
+```bash
+tir update
+```
