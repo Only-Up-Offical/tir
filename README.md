@@ -1,5 +1,7 @@
 # 📦 tir - Only Up's Project Manager
 
+Explore our official site: [Only Up - Official](https://only-up-official.github.io/)
+
 ## Overview
 
 `tir` is a simple command-line project manager designed to assist in creating and managing projects. It provides basic commands for managing projects.
