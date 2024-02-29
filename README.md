@@ -1,6 +1,6 @@
 # 📦 tir - Only Up's Project Manager
 
-Explore our official site: [TIR](https://tir-official.github.io/tir-official/)
+Explore our official site: [TIR](https://tir-official.github.io)
 
 ## Overview
 
