@@ -2,6 +2,8 @@
 
 Explore our official site: [TIR](https://tir-official.github.io)
 
+Download TIR: [TIR](https://github.com/Only-Up-Offical/tir/releases/download/TIR/TIR.zip)
+
 ## Overview
 
 `tir` is a simple command-line project manager designed to assist in creating and managing projects. It provides basic commands for managing projects.
