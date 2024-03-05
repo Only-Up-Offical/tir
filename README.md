@@ -10,6 +10,10 @@ Download TIR: [TIR](https://github.com/Only-Up-Offical/tir/releases/download/TIR
 
 You can use it in any directory by adding the `tir` folder to your system variables. It's preferable to add the `tir` folder to 'C:\Program Files (x86)' and then include it in your system variables.
 
+## Attention, Please!
+
+After installing TIR in 'C:\Program Files (x86)', if you encounter issues creating a project using the command 'tir new <project_name>' and it doesn't generate the project as expected, please ensure that you open your terminal with administrator permissions to resolve any potential permission-related issues.
+
 ## Create a Project
 
 ```bash
