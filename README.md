@@ -12,7 +12,7 @@ You can use it in any directory by adding the `tir` folder to your system variab
 
 ## Attention, Please!
 
-After installing TIR in 'C:\Program Files (x86)', if you encounter issues creating a project using the command 'tir new <project_name>' and it doesn't generate the project as expected, please ensure that you open your terminal with administrator permissions to resolve any potential permission-related issues.
+TIR is installed to Documents Folder!
 
 ## Create a Project
 
